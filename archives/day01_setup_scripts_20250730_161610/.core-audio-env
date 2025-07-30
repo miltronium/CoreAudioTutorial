@@ -1,0 +1,5 @@
+# Core Audio Tutorial Environment Variables
+export CORE_AUDIO_ROOT="/Users/miltronius/Development/CoreAudio/CoreAudioMastery"
+export TUTORIAL_ROOT="/Users/miltronius/Development/CoreAudio/CoreAudioTutorial"
+export LOGS_DIR="/Users/miltronius/Development/CoreAudio/logs"
+export CA_TUTORIAL_BASE="/Users/miltronius/Development/CoreAudio"
